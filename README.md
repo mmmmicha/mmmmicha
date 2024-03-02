@@ -7,7 +7,7 @@
 ### In the future, I would like to introduce myself as a just software engineer.
 - 3+ years of experience
 - Major is Backend but enjoying devops, frontend also
-- mmmmicha is short for Mr.chameleon :) I want to become a software engineer who can blend in perfectly in all situations like a chameleon.
+- mmmmicha is short for Mr.chameleon :) I want to become a software engineer who can blend in perfectly in all situations like a chameleon
 
 ### My weapons
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
