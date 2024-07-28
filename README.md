@@ -5,8 +5,8 @@
 </div>
 
 ### Trust me, I'm a software engineer :)
-- 3+ years of experience
-- Major is Backend but enjoying devops, frontend also
+- 4+ years of experience
+- I enjoy thinking about and solving various problems with object-oriented thinking
 - mmmmicha is short for Mr.chameleon :) I want to become a software engineer who can blend in perfectly in all situations like a chameleon
 
 ### My weapons
