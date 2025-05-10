@@ -1,11 +1,7 @@
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmmicha%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 ### Trust me, I'm a software engineer :)
-- 4+ years of experience
+- 5+ years of experience
 - I enjoy thinking about and solving various problems with object-oriented thinking
 - mmmmicha is short for Mr.chameleon :) I want to become a software engineer who can blend in perfectly in all situations like a chameleon
 
